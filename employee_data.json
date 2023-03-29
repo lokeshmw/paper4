@@ -1,0 +1,22 @@
+{
+  "employee_data": [
+    {
+      "priya": {
+        "Location": "hyderabad",
+        "joining_date": "05/09/2022"
+      },
+      "mahi": {
+        "Location": "bangalore",
+        "joining_date": "20/02/2023"
+      },
+      "raja": {
+        "Location": "hyderabad",
+        "joining_date": "14/10/2022"
+      },
+      "prabhu": {
+        "Location": "bangalore",
+        "joining_date": "02/01/2023"
+      }
+    }
+  ]
+}
